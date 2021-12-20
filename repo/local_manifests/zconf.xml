@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- deal with conflict between vendor.xml and roomservice.xml -->
+<manifest>
+  <remove-project name="platform/hardware/qcom/audio" />
+</manifest>

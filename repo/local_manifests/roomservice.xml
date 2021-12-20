@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- You should probably let Roomservice deal with this unless you know what you are doing. -->
+<manifest>
+  <project path="device/xiaomi/extras" name="ArrowOS-Devices/android_device_xiaomi_extras" remote="github" revision="arrow-12.0" />
+  <project path="hardware/xiaomi" name="ArrowOS-Devices/android_hardware_xiaomi" remote="github" revision="arrow-12.0" />
+  <project path="kernel/xiaomi/cas" name="asuka-mio/android_kernel_xiaomi_cas" remote="github" revision="android-4.19.221-dev" />
+  <project path="packages/apps/GcamGOPrebuilt" name="ArrowOS-Devices/android_packages_apps_GcamGOPrebuilt" remote="github" revision="arrow-12.0" />
+  <project path="hardware/qcom/gps" name="AOSPA/android_hardware_qcom_gps" remote="aospa" revision="sapphire-865" />
+  <project path="vendor/qcom/opensource/audio-hal/primary-hal" name="AOSPA-MiKona/android_hardware_qcom_audio" remote="github" revision="sapphire-865-r" />
+  <project path="hardware/qcom/display" name="AOSPA-MiKona/android_hardware_qcom_display" remote="github" revision="sapphire-865-r" />
+  <project path="hardware/qcom/media" name="AOSPA-MiKona/android_hardware_qcom_media" remote="github" revision="sapphire-865-r" />
+  <project path="vendor/xiaomi/cas" name="Xayah/vendor_xiaomi_cas" remote="gitlab" revision="ruby" />
+</manifest>

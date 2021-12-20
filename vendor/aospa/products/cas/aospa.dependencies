@@ -1,0 +1,56 @@
+[
+  {
+    "remote":       "github",
+    "repository":   "ArrowOS-Devices/android_device_xiaomi_extras",
+    "target_path":  "device/xiaomi/extras",
+    "revision":     "arrow-12.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "ArrowOS-Devices/android_hardware_xiaomi",
+    "target_path":  "hardware/xiaomi",
+    "revision":     "arrow-12.0"
+  },
+  {
+    "remote":       "github",
+    "repository":   "asuka-mio/android_kernel_xiaomi_cas",
+    "target_path":  "kernel/xiaomi/cas",
+    "revision":     "android-4.19.221-dev"
+  },
+  {
+    "remote":       "github",
+    "repository":   "ArrowOS-Devices/android_packages_apps_GcamGOPrebuilt",
+    "target_path":  "packages/apps/GcamGOPrebuilt",
+    "revision":     "arrow-12.0"
+  },
+  {
+    "remote":       "aospa",
+    "repository":   "AOSPA/android_hardware_qcom_gps",
+    "target_path":  "hardware/qcom/gps",
+    "revision":     "sapphire-865"
+  },
+  {
+    "remote":       "github",
+    "repository":   "AOSPA-MiKona/android_hardware_qcom_audio",
+    "target_path":  "vendor/qcom/opensource/audio-hal/primary-hal",
+    "revision":     "sapphire-865-r"
+  },
+  {
+    "remote":       "github",
+    "repository":   "AOSPA-MiKona/android_hardware_qcom_display",
+    "target_path":  "hardware/qcom/display",
+    "revision":     "sapphire-865-r"
+  },
+  {
+    "remote":       "github",
+    "repository":   "AOSPA-MiKona/android_hardware_qcom_media",
+    "target_path":  "hardware/qcom/media",
+    "revision":     "sapphire-865-r"
+  },
+  {
+    "remote":       "gitlab",
+    "repository":   "Xayah/vendor_xiaomi_cas",
+    "target_path":  "vendor/xiaomi/cas",
+    "revision":     "ruby"
+  }
+]
